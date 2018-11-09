@@ -1,3 +1,10 @@
-p {
-    color: purple;
+.header {
+    background-color: red;
+
+}
+
+
+.titles {
+    color: slategray;
+
 }
